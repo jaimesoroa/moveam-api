@@ -1,0 +1,18 @@
+.env
+.env.yaml
+
+# System files
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+*.swp
+build/
+dist/
+.coverage
+*.iml
+*.vscode
+
+# Data files
+*.csv
+*.sqlite
+*.zip

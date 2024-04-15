@@ -1,0 +1,11 @@
+pandas
+numpy
+fastapi
+uvicorn
+httpx
+os
+pytz
+sqlalchemy
+datetime
+boto3
+botocore
